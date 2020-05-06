@@ -1,2 +1,2 @@
 # MyCaptain-tasks
-All kind of works &amp; assignment for All Access course!!
+All kind of works &amp; assignment for C-Programming course!!
